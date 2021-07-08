@@ -49,7 +49,7 @@ social:
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
 
-google_analytics:
+google_analytics: GA SuperProxy
   id: ''              # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
