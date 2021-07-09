@@ -18,8 +18,8 @@ timezone: Asia/Seoul
 title: GihunJoo                        # the main title
 
 tagline: 
-  PhD Student Of Kangwon National Univ
-  Data Scientist Of Medical Data   # it will display as the sub-title
+  PhD / Data Scientist Of Medical Data   
+  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
