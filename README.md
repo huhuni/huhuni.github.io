@@ -1,4 +1,4 @@
-# Gihun Joo Blog
+# Gihun Joo - Blog
 
 코딩 블로그
 
