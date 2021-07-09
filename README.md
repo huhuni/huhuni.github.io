@@ -1,5 +1,12 @@
 # Gihun Joo Blog
 
+코딩 블로그
+
+## Theme
+
+- [Chirpy Theme](https://github.com/cotes2020/jekyll-theme-chirpy/)
+
+
 ## License
 
 This work is published under [MIT](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE) License.
