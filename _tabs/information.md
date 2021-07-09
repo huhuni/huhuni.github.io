@@ -1,5 +1,5 @@
 ---
-title: Infomation
+title: Information
 icon: fas fa-info
 order: 1
 ---
@@ -10,6 +10,10 @@ order: 1
 #### Birthday : 1993.11.27  
 #### Job : Data Scientist  
 
+<br/>
+
+> Every man takes the limits of his own field of vision for the limits of the world - Schopenhauer  
+> 모든 사람은 자신의 보는 시야의 한계를 세상의 한계로 받아들인다 - 쇼펜하우어  
 
 <br/>
 
