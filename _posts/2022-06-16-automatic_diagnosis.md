@@ -1,7 +1,7 @@
 ---
 title: Automatic diagnosis of the 12-lead ECG using a deep neural network
 categories: [Papers, ecg]
-tags: [git, pages]     # TAG names should always be lowercase
+tags: [ecg, paper review, ]     # TAG names should always be lowercase
 ---
 
 # Automatic diagnosis of the 12-lead ECG using a deep neural network review
