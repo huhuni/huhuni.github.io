@@ -5,6 +5,8 @@ tags: [ecg, paper review, ]     # TAG names should always be lowercase
 ---
 
 # Automatic diagnosis of the 12-lead ECG using a deep neural network review
+링크 : [paper](https://www.nature.com/articles/s41467-020-15432-4?ref=https://githubhelp.com)
+
 
 # *Abstract*
 
